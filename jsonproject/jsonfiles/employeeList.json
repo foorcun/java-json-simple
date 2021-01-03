@@ -1,0 +1,34 @@
+[{
+	"firstname": "john",
+	"lastname": "kennedy",
+	"address": [
+		{
+			"street": "abc",
+			"city": "hyderabad",
+			"state":  "tl"
+		},
+		{
+			"street": "xyz",
+			"city": "chenn",
+			"state":  "tn"
+		}
+	]
+}
+,
+{
+	"firstname": "fur",
+	"lastname": "kan",
+	"address": [
+		{
+			"street": "abc",
+			"city": "hyderabad",
+			"state":  "tl"
+		},
+		{
+			"street": "xyz",
+			"city": "chenn",
+			"state":  "tn"
+		}
+	]
+}
+]
