@@ -2,7 +2,6 @@ package jsonproject.jsonproject;
 
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Iterator;
 
 import org.json.simple.JSONArray;
@@ -44,7 +43,7 @@ public class ReadDataFromJSONFile {
 //			link: https://www.youtube.com/watch?v=cFCgFlqF5kw&ab_channel=ProfessorSaad
 			
 			JSONArray empjsonobj2 = (JSONArray) obj2;
-			Iterator<JSONObject> iterator = empjsonobj2.iterator();
+//			Iterator<JSONObject> iterator = empjsonobj2.iterator();  //JSONArray, JSONObject te döndü array element olarak
 			
 			
 			
